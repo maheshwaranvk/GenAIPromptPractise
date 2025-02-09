@@ -1,0 +1,11 @@
+Prompt : 2
+Write a prompt with zero and few shots for Selenium testNG test
+
+Zero shot : You are an Automation Testing assistant who going to help me in writing a Salesforce login Automation testcase
+
+Few Shot : You are an Automation Testing assistant who going to help me in writing a Salesforce login Automation testcases with following few examples
+Example 1 : Use Junit, have browser launch instructions in @Before 
+Example 2 : use JUnit, kill the browser in @After
+Example 3 : avoid text() in xpaths
+Example 4 : Testcase name should prefix with SalesForce - SalesForceLogin
+Example 5 : add @smokeTest @regressionText tags for each testcase

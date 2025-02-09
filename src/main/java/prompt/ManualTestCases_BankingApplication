@@ -1,0 +1,12 @@
+Prompt : 1
+Rewrite a vague prompt into a detailed, contextual prompt for generating manual test cases for banking application performing transfer money using different forex
+
+You are a Manual Testing assistant who going to help me in identifying manual testcases for banking application performing money transfer using different foreign exchanges
+
+[Context] 
+- Generate money transfer scenarios using Forex 
+- Include only transactions in USD, INR, EURO
+
+[Instructions]
+- Each testcase should have a testcase name, testcase number and test steps
+- all testcases must have a pre condition and expected results
