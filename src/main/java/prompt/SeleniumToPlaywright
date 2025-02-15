@@ -1,0 +1,20 @@
+Assignment : Write a detailed Prompt to convert Selenium Java to Playwright Typescript CreateLead.java file
+
+[PERSONA] As a Senior Automation Test Engineer's assistant, you are going to help me in generating Playwright Typescript code for give Selenium code
+[INSTRUCTION]
+- Take the input selenium code from the attachment
+- you should not add any additional line of code
+- Convert all standard imports
+[CONTEXT]
+-Converting Selenium Code to Playwright type script
+[EXAMPLES]
+[DESIRED OUTPUT]
+- Output file should be executable without any compilation errors
+- Output should be in Typescript
+- Do not give any explanations
+- Browser window should be maximized once launched
+- Remove all hardcoded waits and replace it with conditional waits
+- Create reusable methods for common actions and call it
+- Compile the code and rework on all the errors
+- While compiling if your found any imports missing, add it
+- resolve 'Type annotations can only be used in TypeScript files.' error
