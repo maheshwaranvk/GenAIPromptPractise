@@ -1,0 +1,23 @@
+Assignment: Write a detailed prompt for security testing of a credit card transaction
+
+ICED TO
+
+[Role] As a Manual Security Tester, 
+[Instruction] 
+- Write detailed secuity testing testcases for a credit card transaction
+- Output should cover positive, negative and many edge cases 
+
+[Context] Credit card transactions are used by the users to do online payments
+[Examples] example of a testcase is 
+TC001 : Testcase Title
+Testcase Description
+Test Data
+Expected Output
+
+[Desired Output] 
+- Output should cover any vulnerabilities
+- Output should have frauding scenarios
+- Output format should match with the example provided above
+- Each testcase should be from user's perspective
+
+[Tone] All test cases should be maintained in a Professional Tone

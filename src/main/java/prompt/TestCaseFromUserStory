@@ -1,0 +1,26 @@
+Assignment 2 : Write a detailed Prompt to write testcase from a given User Story
+
+[Instruction] You are a tester assistant and going to help in generating testcases
+[Context] I have a User Story with following details 
+'''
+'''
+
+
+[EXAMPLES]
+- TC 001 : Successful Order Placement
+- Test Data : Users, Products, PaymentMethods
+- Test Steps :
+	- User login with valid username/password
+	- User searches & clicks for 'Realme 8pro' under mobile category
+	- User selects 'Add to Cart' button
+	- User selects 'UPI' payment method
+	- User successfully placed the order
+- Expected Output : Order is placed successfully
+
+[DESIRED OUTPUT]
+- As mentioned in the example, the output should have TC number, testdata, teststeps and expected output
+- Output should cover positive, negative and all edge cases. 
+- Generated testcase should have all probabilities of TestData 
+- All testcases should be from User's perspective
+
+[TONE] All Testcases should be in Professional Tone
